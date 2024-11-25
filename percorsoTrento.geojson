@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "percorso",
-    "Descrizione": "",
+    "Nome": "percorsoTrento",
+    "Descrizione": "Percorso di prova attorno a casa mia",
     "umapKey": "",
     "WebPageURL": ""
   },
@@ -1597,7 +1597,16 @@
         "Lunghezza": "1.479",
         "Durata": "01h 21m",
         "Dislivello in salita": "39",
-        "Dislivello in discesa": "41"
+        "Dislivello in discesa": "41",
+        "Provincia": "",
+        "Comune": "",
+        "Punto d'accesso": "",
+        "Foto accesso": "",
+        "Descrizione": "",
+        "Difficoltà": "",
+        "Segnaletica": "",
+        "Copertura GPS": "",
+        "Copertura rete mobile": ""
       }
     },
     {
@@ -1613,7 +1622,7 @@
         "ulsp_type": "Risorsa",
         "Foto": "https://www.gaiagps.com/api/objects/photo/a37168e7-9552-459e-95e7-1df3966a8c2a/image/full/?publickey=jbHkRsvsssSRAM0zWdVD9R8r",
         "Titolo": "Paganella",
-        "Descrizione": "",
+        "Descrizione": "Una bella visuale della Paganella dal centro di Trento",
         "Altitudine": 210,
         "Data": "2024-11-22",
         "Ora": "14:57:47Z",
@@ -1681,7 +1690,7 @@
         "ulsp_type": "Risorsa",
         "Titolo": "Cascatella",
         "Foto": "https://www.gaiagps.com/api/objects/photo/33801dd4-00f0-40a9-b8cf-d7c67bc8fee6/image/full/?publickey=d7rCWcBm817p8Ah3SRpAmaOn",
-        "Descrizione": "",
+        "Descrizione": "Una cascatella lungo il fiume Fersina. Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa quLorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident",
         "Altitudine": "217",
         "Link": "",
         "Tag primario": "Attrazione naturalistica",
@@ -1725,7 +1734,7 @@
         "ulsp_type": "Risorsa",
         "Titolo": "Il ponte di ferro",
         "Foto": "",
-        "Descrizione": "",
+        "Descrizione": "Un ponte di ferro attraversa il torrente Fersina. Nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura, ché la diritta via era smarrita. Ahi quanto a dir qual era è cosa dura esta selva selvaggia e aspra e forte che nel pensier rinova la paura! Tant' è amara che poco è più morte; ma per trattar del ben ch'i' vi trovai, dirò de l'altre cose ch'i' v'ho scorte. Io non so ben ridir com' i' v'intrai, tant' era pien di sonno a quel punto che la verace via abbandonai. Ma poi ch'i' fui al piè d'un colle giunto, là dove terminava quella valle che m'avea di paura il cor compunto, guardai in alto e vidi le sue spalle vestite già de' raggi del pianeta che mena dritto altrui per ogne calle. Allor fu la paura un poco queta, che nel lago del cor m'era durata la notte ch'i' passai con tanta pieta. E come quei che con lena affannata, uscito fuor del pelago a la riva, si volge a l'acqua perigliosa e guata,Nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura, ché la diritta via era smarrita. Ahi quanto a dir qual era è cosa dura esta selva selvaggia e aspra e forte che nel pensier rinova la paura! Tant' è amara che poco è più morte; ma per trattar del ben ch'i' vi trovai, dirò de l'altre cose ch'i' v'ho scorte. Io non so ben ridir com' i' v'intrai, tant' era pien di sonno a quel punto che la verace via abbandonai. Ma poi ch'i' fui al piè d'un colle giunto, là dove terminava quella valle che m'avea di paura il cor compunto, guardai in alto e vidi le sue spalle vestite già de' raggi del pianeta che mena dritto altrui per ogne calle. Allor fu la paura un poco queta, che nel lago del cor m'era durata la notte ch'i' passai con tanta pieta.",
         "Altitudine": "216",
         "Link": "",
         "Tag primario": "Trasporti",
@@ -1768,8 +1777,8 @@
         "photos": [],
         "ulsp_type": "Risorsa",
         "Titolo": "Il liceo dal ponte",
-        "Foto": "",
-        "Descrizione": "",
+        "Foto": "Il liceo Galileo Galilei visto dal ponte sul Fersina. ",
+        "Descrizione": "La vispa Teresa avea tra l'erbetta, a volo sorpresa gentil farfalletta. E tutta giuliva stringendola viva gridava a distesa: 'L'ho presa! L'ho presa!'. A lei supplicando l'afflitta gridò: 'Vivendo, volando che male ti fò? Tu sì mi fai male stringendomi l'ale! Deh, lasciami! Anch'io son figlia di Dio!'. Teresa pentita allenta le dita: 'Va', torna all'erbetta, gentil farfalletta'. Confusa, pentita, Teresa arrossì, dischiuse le dita e quella fuggì.La vispa Teresa avea tra l'erbetta, a volo sorpresa gentil farfalletta. E tutta giuliva stringendola viva gridava a distesa: 'L'ho presa! L'ho presa!'. A lei supplicando l'afflitta gridò: 'Vivendo, volando che male ti fò? Tu sì mi fai male stringendomi l'ale! Deh, lasciami! Anch'io son figlia di Dio!'. Teresa pentita allenta le dita: 'Va', torna all'erbetta, gentil farfalletta'. Confusa, pentita, Teresa arrossì, dischiuse le dita e quella fuggì.",
         "Altitudine": "222",
         "Link": "",
         "Tag primario": "Monumento",
